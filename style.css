@@ -5,3 +5,10 @@ Author: Petya
 Author URI: http://petyaferreira.com
 Description: A theme created with Gutenberg and blocks.
 */
+
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: aqua;
+}
